@@ -1,0 +1,18 @@
+{
+    ":'(": "sad",
+    ":()": "sad",
+    ":)": "happy",
+    ":-)": "happy",
+    ":-<": "sad",
+    ":D": "happy",
+    ":O": "shocked",
+    ":o": "shocked",
+    ":p": "happy",
+    ";(": "sad",
+    ";)": "happy",
+    ";-()": "sad",
+    ";-)": "happy",
+    "</3": "broken heart",
+    "<3": "heart",
+    "=D": "happy"
+}
