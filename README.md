@@ -4,6 +4,8 @@ Late submission for the Kaggle Quora Insincere Competition.
 \
 It scores 0.70704 F1 score on private leaderboad (rank 27/1401).
 
+## the model 
+
 This is an assembling of several methods found in the discussion space of the competition, with a few personal ideas.
 
 Texts are pre-processed with many regexs, and some corrections are computed (with the Peter Norvig spellchecker algorithm) on words which have no embedding found in GLOVE or Paragram.
