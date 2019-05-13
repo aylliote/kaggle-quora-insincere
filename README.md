@@ -1,6 +1,6 @@
 # kaggle-quora-insincere
 
-Late submission for the Kaggle Quora Insincere Competition.
+Late submission for the [Kaggle Quora Insincere Competition](https://www.kaggle.com/c/quora-insincere-questions-classification).
 \
 It scores 0.70704 F1 score on private leaderboad (rank 27/1401).
 
